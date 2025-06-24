@@ -1,0 +1,75 @@
+Stock Market Trend Analysis & Forecasting – Power BI Report
+
+Project Overview
+This project aims to Analyze and Forecast Stock Market Trends using Time Series Analysis techniques. The dashboard was created in Power BI and focuses on identifying historical patterns, understanding market seasonality, and making short-term and long-term predictions. The project offers a hands-on experience in financial data analytics, model development, and real-world interpretation of stock trends.
+
+
+
+Project Objectives
+* Analyze historical stock data to observe patterns over time
+* Detect seasonal behaviors in stock prices
+* Forecast future stock prices using built-in Power BI tools
+* Visualize price movements and trading volumes
+* Generate actionable insights for decision-making
+
+Power BI Visualizations and Key Insights**
+
+1. Main Chart – Close Price Over Time
+* Displays the trend of stock closing prices using a line chart.
+* Clearly shows upward/downward trends in various time windows.
+
+2. Average Close by Year
+* Column chart reveals the yearly average of closing prices.
+* Helps understand the long-term performance of the stock.
+
+3. Forecasted Close Price (Next 30 Days)
+* Built-in forecast feature in Power BI used to estimate future prices.
+* Visualized using a line chart with forecast overlay.
+* Supports short-term investment planning.
+
+4. Average Close by Month Name
+* Visualizes seasonality using monthly aggregation.
+* Identifies months with consistently higher or lower average prices.
+
+5. Volume Analysis
+* Daily and monthly trading volume shown in bar/line charts.
+* Helps correlate price spikes with trading activity.
+
+6. Open vs. Close Comparison
+* Line or clustered column chart comparing daily opening and closing prices.
+* Useful for identifying gaps and daily price behaviors.
+
+7. Volatility and Price Range
+* Visualizes daily volatility using calculated (High - Low) values.
+* Highlights the most volatile trading periods.
+
+8. % Change in Close Price
+* Line or bar chart of percentage daily changes in closing price.
+* Helps detect periods of high momentum or sudden drops.
+
+
+Time Series Modeling & Forecasting
+
+* Forecast Model Used: Power BI’s analytics pane forecasting.
+* Forecast Horizon: Configurable (e.g., 30 days forward).
+* Limitations: Simple forecasting model – deeper accuracy may require integration with R/Python.
+
+
+Key Questions Answered
+
+* What are the long-term and short-term trends in stock prices?
+* Which months historically show higher or lower stock prices?
+* What is the expected price movement in the near future?
+* How do daily trading volumes affect price behavior?
+* Which days showed the highest volatility or price change?
+
+Conclusion
+
+This Power BI project successfully delivers a visual and interactive platform to explore and forecast stock market behavior. It enables:
+* Easy identification of **historical trends and patterns**
+* Detection of **seasonality and volatility**
+* Support for **data-driven investment decisions** through **forecasting tools**
+
+By combining Time Series Analytics with Power BI’s visualization features, this project demonstrates a powerful way to understand and interpret financial data.
+
+
